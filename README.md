@@ -1,7 +1,13 @@
-<<<<<<< HEAD
 # doc-version-control
 Version control for plaintext and .docx files. Allows users to upload documents and view changes at-a-glance.
-=======
+
+## Backend
+
+The backend for this project is located at:
+https://github.com/EvanYeager/doc-vc-backend
+
+------
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
