@@ -12,7 +12,7 @@ export default function Navbar() {
           href="/"
           className="text-lg font-bold text-black dark:text-zinc-50 mr-4"
         >
-          📄 Doc Version Control
+          Doc Version Control
         </Link>
 
         {/* Navigation links */}

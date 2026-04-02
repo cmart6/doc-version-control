@@ -59,7 +59,7 @@ export default function ComparePage() {
 
           {/* Sprint note — remove once Sprint 4 is complete */}
           <p className="mt-4 text-xs text-zinc-400">
-            ⏳ Comparison functionality coming in Sprint 4
+             <b> [Comparison functionality coming in Sprint 4] </b>
           </p>
         </div>
 

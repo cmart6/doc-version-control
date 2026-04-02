@@ -61,7 +61,7 @@ export default function LoginPage() {
 
           {/* Sprint note — remove once Sprint 3 is complete */}
           <p className="mt-4 text-xs text-zinc-400 text-center">
-            ⏳ Login functionality coming in Sprint 3
+            <b> Login functionality coming in Sprint 3 </b>
           </p>
 
         </div>
