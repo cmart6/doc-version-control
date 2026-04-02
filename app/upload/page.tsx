@@ -73,7 +73,7 @@ export default function UploadPage() {
 
           {/* Sprint note — remove once Sprint 3 is complete */}
           <p className="mt-4 text-xs text-zinc-400">
-            ⏳ File upload functionality coming in Sprint 3
+            <b> [File upload functionality coming in Sprint 3] </b>
           </p>
 
         </div>
