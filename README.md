@@ -1,5 +1,29 @@
 # doc-version-control
-Version control for plaintext and .docx files. Allows users to upload documents and view changes at-a-glance.
+Version control for plaintext and .docx files. Allows users to upload documents and view changes at-a-glance. Highlight additions, deletions, and modifications.
+
+## Tech Stack
+- Frontend: Next.js / React
+- Backend: Azure Functions
+- Database: Azure SQL Database
+- File Storage: Azure Blob Storage
+
+## Local Development
+1. Clone the repo
+2. Run `npm install`
+3. Run `npm run dev`
+
+## Environment Variables
+Create a `.env.local` file using `.env.example`
+
+## Deployment
+Frontend is deployed through Vercel.
+Backend and storage services are hosted in Azure.
+
+## Team Roles
+- Chris / Sarai: DevOps and cloud deployment
+- Evan: Backend / API integration
+- Jaylen: Frontend / documentation
+- John: Development / documentation
 
 ## Backend
 
